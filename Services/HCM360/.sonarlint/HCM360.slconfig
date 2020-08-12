@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "902f46359a4a243dfeea59a6364e0714c06ce4bd",
+  "ProjectName": "HCM360",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXPXcuE1oy6FIeyX2ydz",
+      "ProfileTimestamp": "2020-08-10T08:18:17Z"
+    }
+  }
+}

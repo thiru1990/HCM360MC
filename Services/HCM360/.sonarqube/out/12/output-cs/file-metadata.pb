@@ -1,0 +1,9 @@
+Y
+PD:\Solutions\Services\HCM360\ClaimService\Controllers\ClaimsServiceController.csutf-8I
+@D:\Solutions\Services\HCM360\ClaimService\Models\ClaimRequest.csutf-8=
+4D:\Solutions\Services\HCM360\ClaimService\Program.csutf-8=
+4D:\Solutions\Services\HCM360\ClaimService\Startup.csutf-8E
+<D:\Solutions\Services\HCM360\ClaimService\WeatherForecast.csutf-8{
+pD:\Solutions\Services\HCM360\ClaimService\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8i
+^D:\Solutions\Services\HCM360\ClaimService\obj\Debug\netcoreapp3.1\ClaimService.AssemblyInfo.csutf-8|
+qD:\Solutions\Services\HCM360\ClaimService\obj\Debug\netcoreapp3.1\ClaimService.MvcApplicationPartsAssemblyInfo.csutf-8

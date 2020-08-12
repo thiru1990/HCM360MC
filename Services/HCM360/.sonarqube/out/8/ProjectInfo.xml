@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>AddClaims</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>7497b245-518a-4ed5-8c22-868392bfec41</ProjectGuid>
+  <FullPath>D:\Solutions\Services\HCM360\AddClaims\AddClaims.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\Solutions\Services\HCM360\.sonarqube\out\8\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">D:\Solutions\Services\HCM360\AddClaims\bin\Debug\netcoreapp3.1\AddClaims.dll.RoslynCA.json|D:\Solutions\Services\HCM360\AddClaims\bin\Debug\netcoreapp3.1\AddClaims.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">D:\Solutions\Services\HCM360\.sonarqube\out\8</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp3.1</TargetFramework>
+</ProjectInfo>

@@ -1,0 +1,10 @@
+_
+VD:\Solutions\Services\HCM360\ClaimDetailsService\Controllers\ClaimDetailsController.csutf-8\
+SD:\Solutions\Services\HCM360\ClaimDetailsService\DataService\ClaimDetailsService.csutf-8]
+TD:\Solutions\Services\HCM360\ClaimDetailsService\DataService\IClaimDetailsService.csutf-8P
+GD:\Solutions\Services\HCM360\ClaimDetailsService\Models\ClaimDetails.csutf-8D
+;D:\Solutions\Services\HCM360\ClaimDetailsService\Program.csutf-8D
+;D:\Solutions\Services\HCM360\ClaimDetailsService\Startup.csutf-8‚
+wD:\Solutions\Services\HCM360\ClaimDetailsService\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8w
+lD:\Solutions\Services\HCM360\ClaimDetailsService\obj\Debug\netcoreapp3.1\ClaimDetailsService.AssemblyInfo.csutf-8Š
+D:\Solutions\Services\HCM360\ClaimDetailsService\obj\Debug\netcoreapp3.1\ClaimDetailsService.MvcApplicationPartsAssemblyInfo.csutf-8

@@ -1,0 +1,10 @@
+`
+WD:\Solutions\Services\HCM360\PhysicianDetailsService\Controllers\PhysicianController.csutf-8e
+\D:\Solutions\Services\HCM360\PhysicianDetailsService\DataService\IPhysicianDetailsService.csutf-8d
+[D:\Solutions\Services\HCM360\PhysicianDetailsService\DataService\PhysicianDetailsService.csutf-8W
+ND:\Solutions\Services\HCM360\PhysicianDetailsService\Models\PhysicianDetail.csutf-8H
+?D:\Solutions\Services\HCM360\PhysicianDetailsService\Program.csutf-8H
+?D:\Solutions\Services\HCM360\PhysicianDetailsService\Startup.csutf-8†
+{D:\Solutions\Services\HCM360\PhysicianDetailsService\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8
+tD:\Solutions\Services\HCM360\PhysicianDetailsService\obj\Debug\netcoreapp3.1\PhysicianDetailsService.AssemblyInfo.csutf-8“
+‡D:\Solutions\Services\HCM360\PhysicianDetailsService\obj\Debug\netcoreapp3.1\PhysicianDetailsService.MvcApplicationPartsAssemblyInfo.csutf-8
