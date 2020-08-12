@@ -1,0 +1,12 @@
+`
+WD:\Solutions\Services\HCM360\MemberDetailsService\Controllers\MemberDetailController.csutf-8_
+VD:\Solutions\Services\HCM360\MemberDetailsService\DataService\IMemberDetailsService.csutf-8^
+UD:\Solutions\Services\HCM360\MemberDetailsService\DataService\MemberDetailsService.csutf-8Z
+QD:\Solutions\Services\HCM360\MemberDetailsService\Models\AuthorizeAPIAttribute.csutf-8\
+SD:\Solutions\Services\HCM360\MemberDetailsService\Models\ConfigureSwaggerOptions.csutf-8R
+ID:\Solutions\Services\HCM360\MemberDetailsService\Models\MemberDetails.csutf-8E
+<D:\Solutions\Services\HCM360\MemberDetailsService\Program.csutf-8E
+<D:\Solutions\Services\HCM360\MemberDetailsService\Startup.csutf-8ƒ
+xD:\Solutions\Services\HCM360\MemberDetailsService\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8y
+nD:\Solutions\Services\HCM360\MemberDetailsService\obj\Debug\netcoreapp3.1\MemberDetailsService.AssemblyInfo.csutf-8
+D:\Solutions\Services\HCM360\MemberDetailsService\obj\Debug\netcoreapp3.1\MemberDetailsService.MvcApplicationPartsAssemblyInfo.csutf-8
